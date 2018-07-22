@@ -1,0 +1,20 @@
+@import './colors';
+
+html {
+  overflow: hidden;
+}
+
+html,
+body {
+  font: 100% sans-serif;
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  color: $colorBodyText;
+}
+
+a {
+  text-decoration: none;
+}
